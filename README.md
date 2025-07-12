@@ -1,5 +1,5 @@
 # Yelp-Restaurants-Clustering
-<h1>Mapping Bay Area restaurants on Yelp</h1>
+<h1>Mapping Bay Area Restaurants on Yelp</h1>
 
 
 <h2>Description</h2>
@@ -10,14 +10,14 @@ In this class porject, I performed k-means clustering to categorize Berkeley res
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Command-Line Interface</b> 
+- <b>Python</b>
 
 <h2>Environments Used </h2>
 
-- <b>VSCode</b> (21H2)
+- <b>VSCode</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
